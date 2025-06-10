@@ -1,0 +1,21 @@
+body {
+    background-color: #eee;
+}
+
+.wheaterCard {
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px #ddd;
+}
+
+.wheaterCard .card-header {
+    font-weight: bolder;
+}
+
+.temp {
+    text-align: center;
+}
+
+.itemsCD {
+    display: flex;
+    justify-content: space-between;
+}
